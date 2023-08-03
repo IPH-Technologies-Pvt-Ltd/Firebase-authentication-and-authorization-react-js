@@ -55,12 +55,19 @@ Copy the configuration object and replace the placeholders in src/firebase/confi
 const firebaseConfig = {
 
   apiKey: "YOUR_API_KEY",
+  
   authDomain: "YOUR_AUTH_DOMAIN",
+  
   projectId: "YOUR_PROJECT_ID",
+  
   storageBucket: "YOUR_STORAGE_BUCKET",
+  
   messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  
   appId: "YOUR_APP_ID"
+  
 };
+
 Make sure you have enabled the necessary authentication methods (e.g., Email/Password) in the Firebase console.
 
 
