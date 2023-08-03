@@ -7,15 +7,15 @@
 This project demonstrates how to implement Firebase authentication and authorization in a React.js application using JavaScript, CSS, and HTML. Firebase provides a powerful and secure authentication system that allows users to sign up, sign in, and access specific features based on their roles and permissions.
 
 # Table of Contents
-Introduction
-Features
-Installation
-Usage
-Firebase Configuration
-Folder Structure
-Dependencies
-Contributing
-License
+- Introduction
+- Features
+- Installation
+- Usage
+- Firebase Configuration
+- Folder Structure
+- Dependencies
+- Contributing
+- License
 
 # Introduction
 The aim of this project is to showcase the integration of Firebase authentication and authorization in a React.js application. The application provides a user-friendly interface for users to register, log in, and view specific content based on their role.
