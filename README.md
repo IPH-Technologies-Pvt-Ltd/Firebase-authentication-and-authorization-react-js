@@ -21,11 +21,11 @@ This project demonstrates how to implement Firebase authentication and authoriza
 The aim of this project is to showcase the integration of Firebase authentication and authorization in a React.js application. The application provides a user-friendly interface for users to register, log in, and view specific content based on their role.
 
 # Features
-User registration and login using email and password.
-Password reset functionality for users.
-Authorization based on user roles (e.g., admin, regular user).
-Access control to specific features based on user roles.
-Protected routes for authenticated users.
+- User registration and login using email and password.
+- Password reset functionality for users.
+- Authorization based on user roles (e.g., admin, regular user).
+- Access control to specific features based on user roles.
+- Protected routes for authenticated users.
 
 # Installation
 To set up the project on your local machine, follow these steps:
@@ -37,7 +37,7 @@ Install dependencies: npm install
 # Usage
 To run the application locally, execute the following command:
 
-npm start
+- npm start
 
 This will start the development server, and you can access the application by visiting http://localhost:3000 in your web browser.
 
@@ -45,10 +45,10 @@ This will start the development server, and you can access the application by vi
 # Firebase Configuration
 Before running the application, you need to set up a Firebase project and configure the application with your Firebase credentials. Follow these steps:
 
-Go to the Firebase Console: https://console.firebase.google.com/
-Create a new project or use an existing one.
-In the project settings, find your Firebase configuration object.
-Copy the configuration object and replace the placeholders in src/firebase/config.js with your Firebase credentials.
+- Go to the Firebase Console: https://console.firebase.google.com/
+- Create a new project or use an existing one.
+- In the project settings, find your Firebase configuration object.
+- Copy the configuration object and replace the placeholders in src/firebase/config.js with your Firebase credentials.
 
 
 
@@ -74,10 +74,10 @@ Make sure you have enabled the necessary authentication methods (e.g., Email/Pas
 # Dependencies
 This project uses the following main dependencies:
 
-React: Front-end library for building user interfaces.
-Firebase: Real-time database and authentication service.
-React Router: For handling client-side routing in the React application.
-You can find the complete list of dependencies in the package.json file.
+- React: Front-end library for building user interfaces.
+- Firebase: Real-time database and authentication service.
+- React Router: For handling client-side routing in the React application.
+- You can find the complete list of dependencies in the package.json file.
 
 # Contributing
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open a pull request or submit an issue.
