@@ -86,6 +86,14 @@ Contributions to this project are welcome! If you find any issues or have sugges
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 
+## Screenshot
+
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/Firebase-authentication-and-authorization-react-js/assets/133772183/03270c3c-29bf-4765-a81c-d4de75679b54 " 
+     width="800" 
+     height="450"/>
+
+
+
 
 
 
